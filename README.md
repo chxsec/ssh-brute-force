@@ -27,7 +27,7 @@ Before using this script, ensure you have the following prerequisites installed:
 3. Run the script:
 
     ```bash
-    python sshbrute.py
+    python3 sshbrute.py
     ```
 
 4. Follow the prompts and provide the required information:
