@@ -36,7 +36,7 @@ Before using this script, ensure you have the following prerequisites installed:
     - Path to the file containing a list of usernames
     - SSH private key passphrase (if required)
 
-5. Wait for the script to complete. If a valid username and password combination is found, it will be printed to the terminal.
+5. Wait for the script to complete. If a valid username and password combination is found, the username will be printed to the terminal.
 
 ## Disclaimer
 
